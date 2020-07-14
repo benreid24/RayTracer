@@ -1,0 +1,3 @@
+[submodule "lib/BLIB"]
+	path = lib/BLIB
+	url = git@github.com:benreid24/BLIB.git
